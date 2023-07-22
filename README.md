@@ -3,14 +3,13 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 Check out my portfolio [[https://aesthetic-taiyaki-af555f.netlify.app/](https://aesthetic-taiyaki-af555f.netlify.app/](https://arifurs-portfolio.netlify.app/))
+- 👨‍💻 Check out my [portfolio](https://arifurs-portfolio.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript, Node, MongoDB, Firebase**
 
 - 📫 How to reach me **arifurrahmanofficial1@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/11gzEzJEVYQO1veVQ2P5lUGhvNy-Grcmv/view?usp=share_link](https://drive.google.com/file/d/11gzEzJEVYQO1veVQ2P5lUGhvNy-Grcmv/view?usp=share_link](https://drive.google.com/drive/folders/14ueto9OUcb6lt4t38HGkGJVDWJsbS54X))
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lWPbBn5F2074L2LgGZ2rEwCQLaluKsYa/view]()https://drive.google.com/file/d/1lWPbBn5F2074L2LgGZ2rEwCQLaluKsYa/view
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arifur-rahman01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arifur-rahman01/" height="30" width="40" /></a>
