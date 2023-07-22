@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://aesthetic-taiyaki-af555f.netlify.app/](https://aesthetic-taiyaki-af555f.netlify.app/)
+- 👨‍💻 Check out my portfolio [[https://aesthetic-taiyaki-af555f.netlify.app/](https://aesthetic-taiyaki-af555f.netlify.app/](https://arifurs-portfolio.netlify.app/))
 
 - 💬 Ask me about **React, JavaScript, Node, MongoDB, Firebase**
 
 - 📫 How to reach me **arifurrahmanofficial1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11gzEzJEVYQO1veVQ2P5lUGhvNy-Grcmv/view?usp=share_link](https://drive.google.com/file/d/11gzEzJEVYQO1veVQ2P5lUGhvNy-Grcmv/view?usp=share_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/11gzEzJEVYQO1veVQ2P5lUGhvNy-Grcmv/view?usp=share_link](https://drive.google.com/file/d/11gzEzJEVYQO1veVQ2P5lUGhvNy-Grcmv/view?usp=share_link](https://drive.google.com/drive/folders/14ueto9OUcb6lt4t38HGkGJVDWJsbS54X))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
